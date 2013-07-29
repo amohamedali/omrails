@@ -18,3 +18,5 @@ doc/
 *~
 .project
 .idea
+
+/public/system
